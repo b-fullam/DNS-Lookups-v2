@@ -109,4 +109,4 @@ python3 dns-revdns-lookup.py -l -o -r test-ips.txt
 pip3 install -r requirements.txt
 ```
 
-3. I also included 2 text files for testing the list option (--list or -l) for both DNS and Reverse DNS lookups.  One for domains, test-domains.txt, which has domains with intentional formatting errors to test the regex pattern for domains included in the script.  One for IP addresses, test-ips.txt, which includes a mix of public and private IP addresses, as well as a handful of improperly formatted IP addresses to test the 2 regex patterns for IPs included script.
+3. I also included 2 text files for testing the list option ("--list" or "-l") for both DNS and Reverse DNS lookups.  One for domains, test-domains.txt, which has domains with intentional formatting errors to test the regex pattern for domains included in the script.  One for IP addresses, test-ips.txt, which includes a mix of public and private IP addresses, as well as a handful of improperly formatted IP addresses to test the 2 regex patterns for IPs included script.
