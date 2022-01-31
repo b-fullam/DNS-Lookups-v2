@@ -2,7 +2,7 @@
 
 Python script that functions like a CLI tool to perform both DNS and Reverse DNS lookups from either a single entry or in bulk from a list as input.  The script also provides an additional option to output the results to a text file.
 
-### Automating DNS and Reverse DNS Lookups with optional reporting
+## Automating DNS and Reverse DNS Lookups with optional reporting
 
 Enter a single IP address or domain, or select either a list of IP addresses or domains to be submitted for DNS or Reverse DNS lookups.  You can also specify an option to output the results to a text file called "report.txt".
 
